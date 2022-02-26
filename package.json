@@ -1,0 +1,23 @@
+{
+  "name": "e7-records",
+  "version": "1.0.0",
+  "description": "scan and save e7 rta match results",
+  "main": "transpiled/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endqwerty/e7-records.git"
+  },
+  "author": "endqwerty",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/endqwerty/e7-records/issues"
+  },
+  "homepage": "https://github.com/endqwerty/e7-records#readme",
+  "dependencies": {
+    "airtable": "^0.11.2",
+    "node-tesseract-ocr": "^2.2.1"
+  }
+}
